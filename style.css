@@ -31,6 +31,9 @@ a {
 .container {
   padding: 0 200px;
 }
+.pf1{
+  padding: 90px 200px 125px 200px;
+}
 .d-flex {
   display: flex;
 }
@@ -70,9 +73,25 @@ a {
 .title {
   height: 300px;
   width: 500px;
+  text-align: center;
 }
 
 .form {
   height: 300px;
   width: 400px;
+}
+.t-title{
+  font-size: 16px;
+}
+h1{
+  color: #1b3bde;
+  font-size: 45px;
+  font-weight: 900;
+}
+.time{
+ background: #000;
+ color: #fff;
+ width: 148px;
+ margin: 0 auto;
+ padding: 10px 20px;
 }
