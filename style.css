@@ -33,6 +33,7 @@ a {
 }
 .pf1{
   padding: 90px 200px 125px 200px;
+  display: flex;
 }
 .d-flex {
   display: flex;
@@ -94,4 +95,16 @@ h1{
  width: 148px;
  margin: 0 auto;
  padding: 10px 20px;
+}
+.okno{
+  background: #fff;
+padding: 33px 40px;
+}
+.h3{
+  font-size: 17px;
+  font-weight: 900;
+}
+.hizhniitext{
+  font-size: 14px;
+  font-weight: 300;
 }
