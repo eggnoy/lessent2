@@ -108,3 +108,11 @@ padding: 33px 40px;
   font-size: 14px;
   font-weight: 300;
 }
+form{
+  input{
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #adadad;
+  }
+}
